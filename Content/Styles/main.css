@@ -1,0 +1,87 @@
+body {
+    background-color: powderblue;
+    font-size: large;
+}
+header {
+    font-size: x-small;
+}
+
+p {
+    color: aqua;
+    font-size: 18px;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: normal;
+}
+
+nav {
+    font-weight: bold;
+}
+
+section {
+    font-style: italic;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+h1, h2 {
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-family: 'Cookie', Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.headers {
+    background-color: #23cea6;
+    color: red;
+    width: 300px;
+    text-align: center;
+    font-size: 50px;
+    border-left: 20px dotted #a693c2;
+    outline: 10px solid blue;
+    padding: 30px;
+    margin-bottom: 50px;
+}
+
+.headers img{
+    width: 50%;
+    margin-top: 100px;
+}
+
+.img-purple {
+    background-color: #a693c2;
+    border-color: #23cea6;
+}
+
+footer {
+    margin: 50px;
+    color: red;
+    outline: 10px solid blue;
+    font-size: 50px;
+    font-family: 'Cookie', Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#idToBrownie {
+    font-size: 50px;
+    font-family: 'Cookie', Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#idToBrownie > ul > li {
+    color: brown;
+} 
+
+#idToBrownie a {
+    color: yellow;
+} 
+
+#idToBrownie a:hover {
+    color: black;
+}
+
+tr:nth-of-type(odd) {
+    background-color: red;
+}
+tr:nth-of-type(even) {
+    background-color: plum;
+}
