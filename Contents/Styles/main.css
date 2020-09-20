@@ -13,7 +13,6 @@ h1 {
     font-family: 'Cookie', Verdana, Tahoma, sans-serif;
     text-align: center;
 }
-
 legend {
     color: black;
     font-size: 50px;
@@ -21,20 +20,17 @@ legend {
 fieldset{
     background-color: rgb(209, 145, 137);
 }
-
 nav {
     font-weight: bold;
     font-size: 40px;
     line-height: 1.5;
     text-align: justify;
 }
-
 li {
     line-height: 1.5;
     font-family: Tahoma, sans-serif;
     font-size: 30px;
 }
-
 img{
     /*width: 50%;*/
     max-width: 100%;
@@ -49,7 +45,6 @@ img{
     background-color: #a693c2;
     border-color: #23cea6;
 }
-
 footer {
     background-color: slategrey;
     margin: 20px;
@@ -60,7 +55,6 @@ footer {
     line-height: 1.5;
     text-align: justify;
 }
-
 #descriptions {
     font-size: 20px;
     font-family: Verdana, Tahoma, sans-serif;
