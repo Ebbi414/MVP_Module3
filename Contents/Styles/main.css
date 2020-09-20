@@ -1,0 +1,69 @@
+body {
+    background-color: powderblue;
+    font-size: large;
+}
+#pagesHeader {
+    font-size: large;
+    text-transform: uppercase;
+    font-family: 'Cookie', Verdana, Tahoma, sans-serif
+}
+h1 {
+    letter-spacing: 1px;
+    font-size: 50px;
+    font-family: 'Cookie', Verdana, Tahoma, sans-serif;
+    text-align: center;
+}
+
+legend {
+    color: black;
+    font-size: 50px;
+}
+fieldset{
+    background-color: rgb(209, 145, 137);
+}
+
+nav {
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+li {
+    line-height: 1.5;
+    font-family: Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+img{
+    /*width: 50%;*/
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 100px;
+    border: 10px solid #ddd;
+    border-radius: 80%;
+    background-color: #a693c2;
+    border-color: #23cea6;
+}
+
+footer {
+    background-color: slategrey;
+    margin: 20px;
+    color: beige;
+    font-size: 30px;
+    font-family: Tahoma, sans-serif;
+    font-style: italic;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+#descriptions {
+    font-size: 20px;
+    font-family: Verdana, Tahoma, sans-serif;
+    line-height: 1.5;
+    text-align: justify;
+}
